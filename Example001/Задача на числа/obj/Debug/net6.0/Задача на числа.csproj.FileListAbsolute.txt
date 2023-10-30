@@ -1,0 +1,15 @@
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Урок 1\Example001\Задача на числа\bin\Debug\net6.0\Задача на числа.exe
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Урок 1\Example001\Задача на числа\bin\Debug\net6.0\Задача на числа.deps.json
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Урок 1\Example001\Задача на числа\bin\Debug\net6.0\Задача на числа.runtimeconfig.json
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Урок 1\Example001\Задача на числа\bin\Debug\net6.0\Задача на числа.dll
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Урок 1\Example001\Задача на числа\bin\Debug\net6.0\Задача на числа.pdb
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Урок 1\Example001\Задача на числа\obj\Debug\net6.0\Задача на числа.csproj.AssemblyReference.cache
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Урок 1\Example001\Задача на числа\obj\Debug\net6.0\Задача на числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Урок 1\Example001\Задача на числа\obj\Debug\net6.0\Задача на числа.AssemblyInfoInputs.cache
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Урок 1\Example001\Задача на числа\obj\Debug\net6.0\Задача на числа.AssemblyInfo.cs
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Урок 1\Example001\Задача на числа\obj\Debug\net6.0\Задача на числа.csproj.CoreCompileInputs.cache
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Урок 1\Example001\Задача на числа\obj\Debug\net6.0\Задача на числа.dll
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Урок 1\Example001\Задача на числа\obj\Debug\net6.0\refint\Задача на числа.dll
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Урок 1\Example001\Задача на числа\obj\Debug\net6.0\Задача на числа.pdb
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Урок 1\Example001\Задача на числа\obj\Debug\net6.0\Задача на числа.genruntimeconfig.cache
+C:\Users\elvir\OneDrive\Рабочий стол\ОБУЧЕНИЕ 2.0\Урок 1\Example001\Задача на числа\obj\Debug\net6.0\ref\Задача на числа.dll
